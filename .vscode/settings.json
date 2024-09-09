@@ -15,3 +15,8 @@
     "emmet.triggerExpansionOnTab": false,
     "emmet.extensionsPath": []
 }
+
+p 
+{
+    color: green;
+ }
